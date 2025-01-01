@@ -1,0 +1,90 @@
+@mixin flexColumn(){
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main{
+    @include flexColumn();
+    margin-top: 3%;
+    gap: 30px;
+
+    h2{
+        font-size: 1.8rem;
+    }
+
+    input{
+        font-size: 1.1rem;
+        padding: 14px;
+        border-radius: 20px;
+        border: none;
+        width: 300px;
+        text-align: center;
+    }
+
+    button{
+        font-size: 1.2rem;
+        padding: 10px;
+        border-radius: 20px;
+        border: 1px solid;
+        margin-top: 20px;
+
+        &:hover{
+            transform: scale(1.1);
+            transition: transform 0.2s ease;
+            cursor: pointer;
+        }
+
+        &:active{
+            cursor: grabbing;
+            opacity: 80%;
+        }
+    }
+
+    figure{
+        @include flexColumn();
+        background-color: white;
+        border-radius: 15px;
+        padding: 10px;
+
+        img{
+            width: 230px;  
+        }
+
+        ul{
+           @include flexColumn();
+           margin-top: 30px;
+           background-color: white;
+           border-radius: 20px;
+           width: 100%;
+
+           li{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            list-style-type: none;
+            margin-left: -25%;
+            padding: 10px;
+            font-size: 1.2rem;
+           }
+        }
+    }
+}
+
+@media (max-width: 600px){
+
+    main{
+
+        h2{
+            font-size: 1.5rem;
+        }
+
+        input{
+            font-size: 1rem;
+            padding: 10px;
+        }
+
+        button{
+            font-size: 1rem;
+            
+        }
+    }
+}

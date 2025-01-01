@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg,blue,red);
+    gap: 30px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.6);
+
+    img{
+       width: 90px;
+    }
+}
+
+@media (max-width: 600px){
+
+    header{
+
+        gap: 20px;
+
+        h1{
+            font-size: 1.5rem;
+        }
+
+        img{
+            width: 60px;
+        }
+    }
+}
