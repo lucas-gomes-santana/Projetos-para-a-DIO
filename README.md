@@ -4,7 +4,7 @@ Este projeto foi feito usando a API da PokeApi como um dos cursos que a platafor
 
 <hr>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTjeNHyqBHdImqGDutRVJ02tBUSDXaZfgtg&s" width="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTjeNHyqBHdImqGDutRVJ02tBUSDXaZfgtg&s" width="100%">
 
 <hr>
 
