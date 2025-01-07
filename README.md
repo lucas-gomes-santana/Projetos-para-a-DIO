@@ -1,4 +1,11 @@
-# Projetos-para-a-DIO
-Este repositório irá guardar os projetos que a Digital Inovation One (DIO) pede para fazer como parte dos seus cursos
+# Projeto-Pokedex
 
-<img width="700px" src="https://media.licdn.com/dms/image/D4D12AQHlrBNk09sbDQ/article-cover_image-shrink_720_1280/0/1709687009497?e=2147483647&v=beta&t=ZCwVj0C28SjnZ7NYHQ-rrTD6qTurEJpGy9s20JpCfxo">
+Este projeto foi feito usando a API da PokeApi como um dos cursos que a plataforma DIO pede como parte dos seus cursos
+
+<hr>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTjeNHyqBHdImqGDutRVJ02tBUSDXaZfgtg&s" width="">
+
+<hr>
+
+<img src="https://i.ytimg.com/vi/8BQR-E-P0pc/maxresdefault.jpg" width="">
