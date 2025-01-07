@@ -1,5 +1,7 @@
 # Projeto-Pokedex
 
+Este repositório contém um projeto que gera um card de pokemon quando o nome de um é inserido e a imagem do pokemon correspondente aparece,junto com algumas descrições adicionais
+
 Este projeto foi feito usando a API da PokeApi como um dos cursos que a plataforma DIO pede como parte dos seus cursos
 
 <hr>
