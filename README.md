@@ -4,7 +4,7 @@ Este repositório contém um projeto que gera um card de pokemon quando o nome d
 
 Este projeto foi feito usando a API da PokeApi como um dos cursos que a plataforma DIO pede como parte dos seus cursos
 
-OBS:Está autorizado a clonagem desse projeto para uso pessoal.Mas apenas o reponsável por este projeto pode fazer alterações para o repositório original
+OBS:Está autorizado a clonagem desse projeto para uso pessoal ou comercial.Mas apenas o reponsável por este projeto pode fazer alterações para o repositório original
 
 <hr>
 
